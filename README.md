@@ -74,9 +74,9 @@ Tabela: job_titles
 
 **8** - Qual o significado do self nas classes ruby?
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/issues/11#issuecomment-1210035504)
 
 
 **9** -  Quais as vantagens e desvantagens do ruby ser uma linguagem dinamicamente tipada?
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/issues/12#issuecomment-1210039317)
