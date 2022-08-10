@@ -1,4 +1,5 @@
 # README - Hands On (Pontomais)
+Autor: Sergio Oseko
 
 Este repositório comtempla os desafios propostos no teste técnico da empresa Pontomais.
 
