@@ -17,7 +17,7 @@ Desafios propostos e suas respectivas respostas / soluções implementadas:
 
 **2** - Faça uma função que receba uma string contendo um CPF e verifique se ele está formatado de acordo com a máscara 999.999.999-99. A função deve usar regex para fazer a validação da máscara e deve retornar verdadeiro ou falso.
 
-  [Solução]()
+  [Solução](https://github.com/osksergio/pontomais-challenge/blob/main/app/functions/check_mask.rb)
 
  
 **3** - Implemente uma função para calcular o fatorial de números arbitrariamente grandes, sem utilizar recursividade.
@@ -26,7 +26,7 @@ Desafios propostos e suas respectivas respostas / soluções implementadas:
     ● n = 0 deve retornar 1
     ● n > 0 deve retornar n!
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/blob/main/app/functions/fatorial.rb)
 
 
 **4** - A partir das tabelas do banco de dados abaixo, escreva uma query sql que através de join, retorne o nome completo, cpf, equipe e cargo dos colaboradores ordenando os por cpf.
@@ -55,21 +55,21 @@ Tabela: job_titles
 | 2 | Desenvolvedor front-end |
 | 3 | Encantador de clientes |
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/issues/7#issuecomment-1210245967)
 
 **5** - Usando as tabelas do banco de dados do exercício anterior, escreva as classes das models Employee, Team e JobTitle, declare as associações das models e escreva a mesma query com a sintaxe do ActiveRecord.
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/issues/8#issuecomment-1210196862)
 
 
 **6** - Descreva o que faz o seguinte comando e por que ele é amplamente utilizado: a ||= b
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/issues/9#issuecomment-1210613462)
 
 
 **7** - Qual a principal diferença entre estes dois métodos?
 
-[Solução]()
+[Solução](https://github.com/osksergio/pontomais-challenge/issues/10#issuecomment-1210564633)
 
 
 **8** - Qual o significado do self nas classes ruby?
