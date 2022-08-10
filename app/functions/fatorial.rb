@@ -19,6 +19,3 @@ module Fatorial
 
   end
 end
-#num = 53
-#result = fatorial(num)
-#puts result
