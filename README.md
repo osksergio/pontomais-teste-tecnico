@@ -12,7 +12,7 @@ Desafios propostos e suas respectivas respostas / soluções implementadas:
 
 **1** - Faça uma função que receba uma string e retorne verdadeiro caso ela seja palíndromo, do contrário ela deve retornar falso. (palíndromos são palavras ou frases que podem ser lidas da esquerda para a direita ou da direita para a esquerda)
 
-  [Solução]()
+  [Solução](https://github.com/osksergio/pontomais-challenge/blob/main/app/functions/palindrome.rb)
    
 
 **2** - Faça uma função que receba uma string contendo um CPF e verifique se ele está formatado de acordo com a máscara 999.999.999-99. A função deve usar regex para fazer a validação da máscara e deve retornar verdadeiro ou falso.
